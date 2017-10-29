@@ -26,10 +26,12 @@ namespace Code
         internal void OnCollisionEnter2D(Collision2D other) {
             if (other.gameObject.GetComponent<TankControl>() != null)
             {
-                var points = Creator != other.gameObject ? 10 : -20;
-                ScoreManager.IncreaseScore(Creator, points);
-				if(flag)
-                	Destroy(gameObject);
+	            if (flag)
+	            {
+		            var points = Creator != other.gameObject ? 10 : -20;
+		            ScoreManager.IncreaseScore(Creator, points);
+		            Destroy(gameObject);
+	            }     
             }
 			if (other.gameObject.CompareTag ("Wall")) {
 				if(flag)
