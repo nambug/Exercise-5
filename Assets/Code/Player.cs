@@ -85,7 +85,7 @@ namespace Code
                 }
                 else
                 {
-                    _fireAxis = "fireAxis2(Win)";
+                    _fireAxis = "FireAxis2(Win)";
                 }
                 Debug.Log(GameObject.FindGameObjectWithTag("Player1").gameObject.GetComponent<Player>()._fireAxis);
                 return;
@@ -98,7 +98,7 @@ namespace Code
             Thrust(Input.GetAxis(_vertical));
             
             // Firing
-            if (Input.GetAxis(_fireAxis) == 1f)
+            if (Input.GetAxis(_fireAxis) > 0f)
             {
                 FireProjectileIfPossible();   
             }

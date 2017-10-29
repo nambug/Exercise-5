@@ -20,9 +20,9 @@ namespace Code
         public float Speed = 5f;
 
         /// <summary>
-        /// Do dammage if hitting player
+        /// Do damage if hitting player
         /// </summary>
-        /// <param name="collision"></param>
+        /// <param name="other"></param>
         internal void OnCollisionEnter2D(Collision2D other) {
             if (other.gameObject.GetComponent<Player>() != null)
             {
