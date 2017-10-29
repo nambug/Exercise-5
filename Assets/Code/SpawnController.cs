@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.Experimental.Rendering;
 
 /// <summary>
 /// Just a simple component to keep track of the bounds of the arena
@@ -16,6 +17,10 @@ public class SpawnController : MonoBehaviour
 	// Note the bounds of the arena.
 	internal void Start ()
 	{
-		LeftWall.transform.position = new Vector3(0, 0, 0);
+		Camera cam = Camera.main;
+		LeftWall.transform.position = cam.ViewportToWorldPoint(new Vector3(0, 0.5f, 0));
+		RightWall.transform.position = cam.ViewportToWorldPoint(new Vector3(1, 0.5f, 0));
+		TopWall.transform.position = cam.ViewportToWorldPoint(new Vector3(0.5f, 1f, 0));
+		BottomWall.transform.position = cam.ViewportToWorldPoint(new Vector3(0.5f, 0, 0));
 	}
 }
