@@ -100,7 +100,7 @@ namespace Code
             // Firing
             if (Input.GetAxis(_fireAxis) == 1f)
             {
-                FireProjectileIfPossible();
+                FireProjectileIfPossible();   
             }
 
             

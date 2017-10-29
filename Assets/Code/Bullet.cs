@@ -12,7 +12,7 @@ namespace Code
         /// </summary>
         public GameObject Creator;
 
-		private bool flag = false;
+		private bool _flag = false;
 
         /// <summary>
         /// How fast to move
@@ -26,7 +26,7 @@ namespace Code
         internal void OnCollisionEnter2D(Collision2D other) {
             if (other.gameObject.GetComponent<Player>() != null)
             {
-	            if (flag)
+	            if (_flag)
 	            {
 		            var points = Creator != other.gameObject ? 10 : -20;
 		            ScoreManager.IncreaseScore(Creator, points);
@@ -34,7 +34,7 @@ namespace Code
 	            }     
             }
 			if (other.gameObject.CompareTag ("Wall")) {
-				if(flag)
+				if(_flag)
 					Destroy(gameObject);
 			}
         }
@@ -51,7 +51,7 @@ namespace Code
             GetComponent<SpriteRenderer>().color = creator.GetComponent<Player>().ProjectileColor;
             transform.position = pos;
             GetComponent<Rigidbody2D>().velocity = Speed*direction;
-			flag = true;
+			_flag = true;
         }
     }
 }
