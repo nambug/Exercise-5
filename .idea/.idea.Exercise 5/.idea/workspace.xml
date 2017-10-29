@@ -6,18 +6,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000.info" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" afterPath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c8/c84fea3f547ae4f9d9929955e352fcdb" afterPath="$PROJECT_DIR$/Library/metadata/c8/c84fea3f547ae4f9d9929955e352fcdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c9/c9b07071c183f0b4bb066ee8d910614e" afterPath="$PROJECT_DIR$/Library/metadata/c9/c9b07071c183f0b4bb066ee8d910614e" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/Bullet.cs" afterPath="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/SpawnController.cs" afterPath="$PROJECT_DIR$/Assets/Code/SpawnController.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/EditorInstance.json" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,19 +58,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpawnController.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SpawnController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+            <state relative-caret-position="270">
+              <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               <folding>
-                <marker date="1509248961000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-                <marker date="1509248961000" expanded="true" signature="207:1513" ph="{...}" />
-                <marker date="1509248961000" expanded="true" signature="617:806" ph="{...}" />
-                <marker date="1509248961000" expanded="true" signature="812:1056" ph="/// Return a random location within the arena that is at least radius units from any other objects. ... " />
-                <marker date="1509248961000" expanded="true" signature="1113:1511" ph="{...}" />
-                <marker date="1509248961000" expanded="true" signature="1203:1470" ph="{...}" />
-                <marker date="1509248961000" expanded="true" signature="1399:1460" ph="{...}" />
+                <marker date="1509249726000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
+                <marker date="1509249726000" expanded="true" signature="207:538" ph="{...}" />
+                <marker date="1509249726000" expanded="true" signature="476:536" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -109,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bullet.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bullet.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="276">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <marker date="1509248681000" expanded="true" signature="35:1662" ph="{...}" />
                 <marker date="1509248681000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
@@ -300,7 +289,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6511000" />
+    <option name="totallyTimeSpent" value="7066000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,13 +350,9 @@
         <state relative-caret-position="405">
           <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
-            <marker date="1509248961000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-            <marker date="1509248961000" expanded="true" signature="207:1513" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="617:806" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="812:1056" ph="/// Return a random location within the arena that is at least radius units from any other objects. ... " />
-            <marker date="1509248961000" expanded="true" signature="1113:1511" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="1203:1470" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="1399:1460" ph="{...}" />
+            <marker date="1509249726000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
+            <marker date="1509249726000" expanded="true" signature="207:538" ph="{...}" />
+            <marker date="1509249726000" expanded="true" signature="476:536" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -452,22 +437,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/Projectile.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding>
-            <marker date="1509248961000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-            <marker date="1509248961000" expanded="true" signature="207:1513" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="617:806" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="812:1056" ph="/// Return a random location within the arena that is at least radius units from any other objects. ... " />
-            <marker date="1509248961000" expanded="true" signature="1113:1511" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="1203:1470" ph="{...}" />
-            <marker date="1509248961000" expanded="true" signature="1399:1460" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-396">
@@ -528,8 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="276">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <marker date="1509248681000" expanded="true" signature="35:1662" ph="{...}" />
             <marker date="1509248681000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
@@ -543,6 +512,18 @@
             <marker date="1509248681000" expanded="true" signature="954:999" ph="{...}" />
             <marker date="1509248681000" expanded="true" signature="1019:1300" ph="/// Start the projectile moving. ... " />
             <marker date="1509248681000" expanded="true" signature="1377:1654" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <marker date="1509249726000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
+            <marker date="1509249726000" expanded="true" signature="207:538" ph="{...}" />
+            <marker date="1509249726000" expanded="true" signature="476:536" ph="{...}" />
           </folding>
         </state>
       </provider>
