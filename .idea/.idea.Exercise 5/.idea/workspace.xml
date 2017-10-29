@@ -2,383 +2,388 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd02877-1961-47dd-a05a-b22f7cac0695" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise 5.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/Assembly-CSharp.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/Mono.Security.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/System.Core.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/System.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ARModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AnimationModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.AudioModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ClothModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ClusterInputModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.CoreModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.DirectorModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.GameCenterModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.GridModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.IMGUIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.InputModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.Networking.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.Physics2DModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.PhysicsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TerrainModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.TilemapModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UI.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UIElementsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UNETModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.VRModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.VehiclesModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.VideoModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.WebModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.WindModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/UnityEngine.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Managed/mscorlib.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/EmbedRuntime/MonoPosixHelper.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/EmbedRuntime/mono.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/1.0/machine.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/2.0/machine.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/2.0/settings.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/2.0/web.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/browscap.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Mono/etc/mono/mconfig/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Resources/unity default resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/Resources/unity_builtin_extra" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/app.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/boot.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/globalgamemanagers" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/globalgamemanagers.assets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/level0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/sharedassets0.assets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/THx86_64_Data/sharedassets0.assets.resS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/Assembly-CSharp.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/Mono.Security.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/System.Core.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/System.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ARModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AnimationModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.AudioModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ClothModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ClusterInputModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.CoreModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.DirectorModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.GameCenterModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.GridModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.IMGUIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.InputModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.Networking.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.Physics2DModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.PhysicsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TerrainModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.TilemapModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UI.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UIElementsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UNETModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.VRModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.VehiclesModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.VideoModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.WebModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.WindModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/UnityEngine.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Managed/mscorlib.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/EmbedRuntime/MonoPosixHelper.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/EmbedRuntime/mono.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/1.0/machine.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/2.0/machine.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/2.0/settings.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/2.0/web.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/browscap.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Mono/etc/mono/mconfig/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Resources/unity default resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/Resources/unity_builtin_extra" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/app.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/boot.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/globalgamemanagers" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/globalgamemanagers.assets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/level0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/sharedassets0.assets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TankHomeworkWin_Data/sharedassets0.assets.resS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/Assembly-CSharp.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/Mono.Security.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/System.Core.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/System.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ARModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AnimationModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.AudioModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ClothModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ClusterInputModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.CoreModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.DirectorModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.GameCenterModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.GridModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.IMGUIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.InputModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.Networking.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.Physics2DModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.PhysicsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TerrainModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.TilemapModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UI.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UIElementsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UIModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UNETModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.VRModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.VehiclesModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.VideoModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.WebModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.WindModule.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/UnityEngine.dll.mdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Managed/mscorlib.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/EmbedRuntime/MonoPosixHelper.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/EmbedRuntime/mono.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/1.0/machine.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/2.0/machine.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/2.0/settings.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/2.0/web.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/browscap.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Mono/etc/mono/mconfig/config.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Resources/unity default resources" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/Resources/unity_builtin_extra" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/app.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/boot.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/globalgamemanagers" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/globalgamemanagers.assets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/level0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/sharedassets0.assets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/THx86_64_Data/sharedassets0.assets.resS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/v1.3.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/SpawnController.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/SpawnController.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/TankControl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/TankControl.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/Assembly-CSharp.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/Mono.Security.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/System.Core.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/System.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ARModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AnimationModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.AudioModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ClothModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ClusterInputModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.CoreModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.DirectorModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.GameCenterModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.GridModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.IMGUIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.InputModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.Networking.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.Physics2DModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.PhysicsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TerrainModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.TilemapModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UI.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UIElementsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UNETModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.VRModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.VehiclesModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.VideoModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.WebModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.WindModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/UnityEngine.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Managed/mscorlib.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/EmbedRuntime/MonoPosixHelper.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/EmbedRuntime/mono.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/1.0/machine.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/2.0/machine.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/2.0/settings.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/2.0/web.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/browscap.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Mono/etc/mono/mconfig/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Resources/unity default resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/Resources/unity_builtin_extra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/app.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/boot.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/globalgamemanagers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/globalgamemanagers.assets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/level0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/sharedassets0.assets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Temp/StagingArea/v2.2_Data/sharedassets0.assets.resS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/Assembly-CSharp.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/Mono.Security.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/System.Core.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/System.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ARModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AnimationModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.AudioModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ClothModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ClusterInputModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.CoreModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.DirectorModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.GameCenterModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.GridModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.IMGUIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.InputModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.Networking.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.Physics2DModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.PhysicsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TerrainModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.TilemapModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UI.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UIElementsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UNETModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.VRModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.VehiclesModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.VideoModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.WebModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.WindModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/UnityEngine.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Managed/mscorlib.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/EmbedRuntime/MonoPosixHelper.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/EmbedRuntime/mono.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/1.0/machine.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/2.0/machine.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/2.0/settings.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/2.0/web.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/browscap.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Mono/etc/mono/mconfig/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Resources/unity default resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/Resources/unity_builtin_extra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/app.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/boot.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/globalgamemanagers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/globalgamemanagers.assets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/level0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/sharedassets0.assets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.1_Data/sharedassets0.assets.resS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/Assembly-CSharp.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/Mono.Security.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/System.Core.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/System.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ARModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AccessibilityModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AnimationModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.AudioModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ClothModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ClusterInputModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.CoreModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.CrashReportingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.DirectorModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.GameCenterModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.GridModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.IMGUIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ImageConversionModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.InputModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.Networking.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ParticlesLegacyModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.Physics2DModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.PhysicsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TerrainModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TextRenderingModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.TilemapModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UI.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UIElementsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UIModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UNETModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityConnectModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.VRModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.VehiclesModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.VideoModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.WebModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.WindModule.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/UnityEngine.dll.mdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Managed/mscorlib.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/EmbedRuntime/MonoPosixHelper.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/EmbedRuntime/mono.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/1.0/machine.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/2.0/machine.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/2.0/settings.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/2.0/web.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/browscap.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Mono/etc/mono/mconfig/config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Resources/unity default resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/Resources/unity_builtin_extra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/app.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/boot.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/globalgamemanagers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/globalgamemanagers.assets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/level0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/sharedassets0.assets" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/v2.2_Data/sharedassets0.assets.resS" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Data/globalgamemanagers" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000004000000000000000" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000005100000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000005100000000000000" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000008000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000008000000000000000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" afterPath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c7/c7cb79062016a4110909f6dc99360b6a" afterPath="$PROJECT_DIR$/Library/metadata/c7/c7cb79062016a4110909f6dc99360b6a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671.info" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c9/c9b07071c183f0b4bb066ee8d910614e" afterPath="$PROJECT_DIR$/Library/metadata/c9/c9b07071c183f0b4bb066ee8d910614e" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c9/c9b07071c183f0b4bb066ee8d910614e.info" afterPath="$PROJECT_DIR$/Library/metadata/c9/c9b07071c183f0b4bb066ee8d910614e.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/Platform.cs" afterPath="$PROJECT_DIR$/Assets/Code/Platform.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/TankControl.cs" afterPath="$PROJECT_DIR$/Assets/Code/TankControl.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/Bullet.cs" afterPath="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -391,52 +396,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TankControl.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="83" column="43" lean-forward="false" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
-              <folding>
-                <marker date="1509294998000" expanded="true" signature="34:4445" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-                <marker date="1509294998000" expanded="true" signature="199:4443" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-                <marker date="1509294998000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-                <marker date="1509294998000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-                <marker date="1509294998000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
-                <marker date="1509294998000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
-                <marker date="1509294998000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
-                <marker date="1509294998000" expanded="true" signature="1063:1137" ph="/// Button to fire projectile ... " />
-                <marker date="1509294998000" expanded="true" signature="1184:1264" ph="/// Prefab for the bullets we fire. ... " />
-                <marker date="1509294998000" expanded="true" signature="1320:1417" ph="/// Color to tint the projections fired by this tank ... " />
-                <marker date="1509294998000" expanded="true" signature="1483:1578" ph="/// Time at which we will next be allowed to fire. ... " />
-                <marker date="1509294998000" expanded="true" signature="1629:1708" ph="/// Rigid body component for tank. ... " />
-                <marker date="1509294998000" expanded="true" signature="1763:1822" ph="/// Initialize ... " />
-                <marker date="1509294998000" expanded="true" signature="1853:2684" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="2016:2313" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="2084:2169" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="2190:2275" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="2377:2674" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="2445:2530" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="2551:2636" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="2698:2801" ph="/// Joystick values less than this will be treated as zero ... " />
-                <marker date="1509294998000" expanded="true" signature="2882:3001" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="3010:3128" ph="/// The player pushed fire. ... " />
-                <marker date="1509294998000" expanded="true" signature="3168:3330" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="3213:3320" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="3344:3430" ph="/// Really and truly fire the projectile. ... " />
-                <marker date="1509294998000" expanded="true" signature="3461:3676" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="3708:4437" ph="{...}" />
-                <marker date="1509294998000" expanded="true" signature="4355:4427" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Platform.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/Platform.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="276">
               <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding>
                 <marker date="1509294083000" expanded="true" signature="34:1493" ph="{...}" />
@@ -454,16 +417,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpawnController.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
+      <file leaf-file-name="WallManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/WallManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
-                <marker date="1509250588000" expanded="false" signature="6:60" ph="..." />
-                <marker date="1509250588000" expanded="true" signature="62:204" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-                <marker date="1509250588000" expanded="true" signature="249:889" ph="{...}" />
-                <marker date="1509250588000" expanded="true" signature="518:887" ph="{...}" />
+                <marker date="1509303472000" expanded="false" signature="6:60" ph="..." />
+                <marker date="1509303472000" expanded="true" signature="76:910" ph="{...}" />
+                <marker date="1509303472000" expanded="true" signature="80:225" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
+                <marker date="1509303472000" expanded="true" signature="267:908" ph="{...}" />
+                <marker date="1509303472000" expanded="true" signature="529:905" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="90" column="16" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+              <folding>
+                <marker date="1509303474000" expanded="true" signature="34:4037" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="41:149" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+                <marker date="1509303474000" expanded="true" signature="189:4035" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="204:275" ph="/// Delay between shooting ... " />
+                <marker date="1509303474000" expanded="true" signature="325:402" ph="/// Axis for controlling driving ... " />
+                <marker date="1509303474000" expanded="true" signature="446:524" ph="/// Axis for controlling rotation ... " />
+                <marker date="1509303474000" expanded="true" signature="570:644" ph="/// Button to fire projectile ... " />
+                <marker date="1509303474000" expanded="true" signature="688:768" ph="/// Prefab for the bullets we fire. ... " />
+                <marker date="1509303474000" expanded="true" signature="812:909" ph="/// Color to tint the projections fired by this tank ... " />
+                <marker date="1509303474000" expanded="true" signature="971:1066" ph="/// Time at which we will next be allowed to fire. ... " />
+                <marker date="1509303474000" expanded="true" signature="1109:1188" ph="/// Rigid body component for tank. ... " />
+                <marker date="1509303474000" expanded="true" signature="1232:1291" ph="/// Initialize ... " />
+                <marker date="1509303474000" expanded="true" signature="1321:2586" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="1428:1542" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="1559:1673" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="1798:2097" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="1866:1952" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="1973:2059" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="2161:2576" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="2229:2315" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="2336:2422" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="2626:2907" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="2811:2883" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="2925:3048" ph="/// The player pushed fire. ... " />
+                <marker date="1509303474000" expanded="true" signature="3088:3260" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="3137:3250" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="3270:3333" ph="/// Actually fire. ... " />
+                <marker date="1509303474000" expanded="true" signature="3363:3586" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="3640:3804" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="3695:3747" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="3850:4029" ph="{...}" />
+                <marker date="1509303474000" expanded="true" signature="3905:3957" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -472,7 +479,7 @@
       <file leaf-file-name="ScoreManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-369">
+            <state relative-caret-position="150">
               <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding>
                 <marker date="1509239733000" expanded="false" signature="6:32" ph="..." />
@@ -498,21 +505,21 @@
       <file leaf-file-name="Bullet.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
               <folding>
-                <marker date="1509248681000" expanded="true" signature="35:1662" ph="{...}" />
-                <marker date="1509248681000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
-                <marker date="1509248681000" expanded="true" signature="154:1660" ph="{...}" />
-                <marker date="1509248681000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
-                <marker date="1509248681000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
-                <marker date="1509248681000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
-                <marker date="1509248681000" expanded="true" signature="590:1009" ph="{...}" />
-                <marker date="1509248681000" expanded="true" signature="661:908" ph="{...}" />
-                <marker date="1509248681000" expanded="true" signature="698:889" ph="{...}" />
-                <marker date="1509248681000" expanded="true" signature="954:999" ph="{...}" />
-                <marker date="1509248681000" expanded="true" signature="1019:1300" ph="/// Start the projectile moving. ... " />
-                <marker date="1509248681000" expanded="true" signature="1377:1654" ph="{...}" />
+                <marker date="1509303383000" expanded="true" signature="35:1652" ph="{...}" />
+                <marker date="1509303383000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+                <marker date="1509303383000" expanded="true" signature="154:1650" ph="{...}" />
+                <marker date="1509303383000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+                <marker date="1509303383000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
+                <marker date="1509303383000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
+                <marker date="1509303383000" expanded="true" signature="590:1004" ph="{...}" />
+                <marker date="1509303383000" expanded="true" signature="656:903" ph="{...}" />
+                <marker date="1509303383000" expanded="true" signature="693:884" ph="{...}" />
+                <marker date="1509303383000" expanded="true" signature="949:994" ph="{...}" />
+                <marker date="1509303383000" expanded="true" signature="1014:1295" ph="/// Start the projectile moving. ... " />
+                <marker date="1509303383000" expanded="true" signature="1372:1644" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -525,27 +532,35 @@
       <find>Projectile</find>
       <find>Players</find>
       <find>FireAx</find>
+      <find>tankRB</find>
+      <find>FireCooldown</find>
+      <find>coolDownTimer</find>
+      <find>VerticalAxis</find>
+      <find>HorizontalAxis</find>
+      <find>FireAxis</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/WallManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/Platform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Code/ScoreManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/Projectile.cs" />
-        <option value="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
-        <option value="$PROJECT_DIR$/Assets/Code/SpawnController.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/Platform.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/TankControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/SpawnController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/WallManager.cs" />
       </list>
     </option>
   </component>
@@ -695,12 +710,12 @@
       <updated>1509239220047</updated>
       <workItem from="1509239223456" duration="5947000" />
       <workItem from="1509289968919" duration="1677000" />
-      <workItem from="1509293273590" duration="1357000" />
+      <workItem from="1509293273590" duration="4261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13403000" />
+    <option name="totallyTimeSpent" value="16307000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,39 +767,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="66" column="22" lean-forward="false" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-          <folding>
-            <marker date="1509294998000" expanded="true" signature="34:4445" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-            <marker date="1509294998000" expanded="true" signature="199:4443" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-            <marker date="1509294998000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-            <marker date="1509294998000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-            <marker date="1509294998000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
-            <marker date="1509294998000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
-            <marker date="1509294998000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
-            <marker date="1509294998000" expanded="true" signature="1063:1137" ph="/// Button to fire projectile ... " />
-            <marker date="1509294998000" expanded="true" signature="1184:1264" ph="/// Prefab for the bullets we fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1320:1417" ph="/// Color to tint the projections fired by this tank ... " />
-            <marker date="1509294998000" expanded="true" signature="1483:1578" ph="/// Time at which we will next be allowed to fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1629:1708" ph="/// Rigid body component for tank. ... " />
-            <marker date="1509294998000" expanded="true" signature="1763:1822" ph="/// Initialize ... " />
-            <marker date="1509294998000" expanded="true" signature="1853:2684" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2016:2313" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2084:2169" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2190:2275" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2377:2674" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2445:2530" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2551:2636" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2698:2801" ph="/// Joystick values less than this will be treated as zero ... " />
-            <marker date="1509294998000" expanded="true" signature="2882:3001" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3010:3128" ph="/// The player pushed fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="3168:3330" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3213:3320" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3344:3430" ph="/// Really and truly fire the projectile. ... " />
-            <marker date="1509294998000" expanded="true" signature="3461:3676" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3708:4437" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="4355:4427" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -792,12 +775,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <marker date="1509250588000" expanded="false" signature="6:60" ph="..." />
-            <marker date="1509250588000" expanded="true" signature="62:204" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-            <marker date="1509250588000" expanded="true" signature="249:889" ph="{...}" />
-            <marker date="1509250588000" expanded="true" signature="518:887" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -830,18 +808,18 @@
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <marker date="1509248681000" expanded="true" signature="35:1662" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
-            <marker date="1509248681000" expanded="true" signature="154:1660" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
-            <marker date="1509248681000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
-            <marker date="1509248681000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
-            <marker date="1509248681000" expanded="true" signature="590:1009" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="661:908" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="698:889" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="954:999" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="1019:1300" ph="/// Start the projectile moving. ... " />
-            <marker date="1509248681000" expanded="true" signature="1377:1654" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="35:1652" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+            <marker date="1509303383000" expanded="true" signature="154:1650" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+            <marker date="1509303383000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
+            <marker date="1509303383000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
+            <marker date="1509303383000" expanded="true" signature="590:1004" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="656:903" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="693:884" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="949:994" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="1014:1295" ph="/// Start the projectile moving. ... " />
+            <marker date="1509303383000" expanded="true" signature="1372:1644" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -869,39 +847,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding>
-            <marker date="1509294998000" expanded="true" signature="34:4445" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-            <marker date="1509294998000" expanded="true" signature="199:4443" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-            <marker date="1509294998000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-            <marker date="1509294998000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-            <marker date="1509294998000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
-            <marker date="1509294998000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
-            <marker date="1509294998000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
-            <marker date="1509294998000" expanded="true" signature="1063:1137" ph="/// Button to fire projectile ... " />
-            <marker date="1509294998000" expanded="true" signature="1184:1264" ph="/// Prefab for the bullets we fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1320:1417" ph="/// Color to tint the projections fired by this tank ... " />
-            <marker date="1509294998000" expanded="true" signature="1483:1578" ph="/// Time at which we will next be allowed to fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1629:1708" ph="/// Rigid body component for tank. ... " />
-            <marker date="1509294998000" expanded="true" signature="1763:1822" ph="/// Initialize ... " />
-            <marker date="1509294998000" expanded="true" signature="1853:2684" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2016:2313" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2084:2169" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2190:2275" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2377:2674" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2445:2530" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2551:2636" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2698:2801" ph="/// Joystick values less than this will be treated as zero ... " />
-            <marker date="1509294998000" expanded="true" signature="2882:3001" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3010:3128" ph="/// The player pushed fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="3168:3330" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3213:3320" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3344:3430" ph="/// Really and truly fire the projectile. ... " />
-            <marker date="1509294998000" expanded="true" signature="3461:3676" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3708:4437" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="4355:4427" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -909,12 +855,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <marker date="1509250588000" expanded="false" signature="6:60" ph="..." />
-            <marker date="1509250588000" expanded="true" signature="62:204" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-            <marker date="1509250588000" expanded="true" signature="249:889" ph="{...}" />
-            <marker date="1509250588000" expanded="true" signature="518:887" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -947,18 +888,18 @@
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <marker date="1509248681000" expanded="true" signature="35:1662" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
-            <marker date="1509248681000" expanded="true" signature="154:1660" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
-            <marker date="1509248681000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
-            <marker date="1509248681000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
-            <marker date="1509248681000" expanded="true" signature="590:1009" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="661:908" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="698:889" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="954:999" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="1019:1300" ph="/// Start the projectile moving. ... " />
-            <marker date="1509248681000" expanded="true" signature="1377:1654" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="35:1652" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+            <marker date="1509303383000" expanded="true" signature="154:1650" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+            <marker date="1509303383000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
+            <marker date="1509303383000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
+            <marker date="1509303383000" expanded="true" signature="590:1004" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="656:903" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="693:884" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="949:994" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="1014:1295" ph="/// Start the projectile moving. ... " />
+            <marker date="1509303383000" expanded="true" signature="1372:1644" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -968,12 +909,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <marker date="1509250588000" expanded="false" signature="6:60" ph="..." />
-            <marker date="1509250588000" expanded="true" signature="62:204" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-            <marker date="1509250588000" expanded="true" signature="249:889" ph="{...}" />
-            <marker date="1509250588000" expanded="true" signature="518:887" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -982,18 +918,18 @@
         <state relative-caret-position="369">
           <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
           <folding>
-            <marker date="1509248681000" expanded="true" signature="35:1662" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
-            <marker date="1509248681000" expanded="true" signature="154:1660" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
-            <marker date="1509248681000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
-            <marker date="1509248681000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
-            <marker date="1509248681000" expanded="true" signature="590:1009" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="661:908" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="698:889" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="954:999" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="1019:1300" ph="/// Start the projectile moving. ... " />
-            <marker date="1509248681000" expanded="true" signature="1377:1654" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="35:1652" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+            <marker date="1509303383000" expanded="true" signature="154:1650" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+            <marker date="1509303383000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
+            <marker date="1509303383000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
+            <marker date="1509303383000" expanded="true" signature="590:1004" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="656:903" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="693:884" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="949:994" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="1014:1295" ph="/// Start the projectile moving. ... " />
+            <marker date="1509303383000" expanded="true" signature="1372:1644" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1026,59 +962,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1208">
           <caret line="104" column="23" lean-forward="false" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
-          <folding>
-            <marker date="1509294998000" expanded="true" signature="34:4445" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-            <marker date="1509294998000" expanded="true" signature="199:4443" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-            <marker date="1509294998000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-            <marker date="1509294998000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-            <marker date="1509294998000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
-            <marker date="1509294998000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
-            <marker date="1509294998000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
-            <marker date="1509294998000" expanded="true" signature="1063:1137" ph="/// Button to fire projectile ... " />
-            <marker date="1509294998000" expanded="true" signature="1184:1264" ph="/// Prefab for the bullets we fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1320:1417" ph="/// Color to tint the projections fired by this tank ... " />
-            <marker date="1509294998000" expanded="true" signature="1483:1578" ph="/// Time at which we will next be allowed to fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1629:1708" ph="/// Rigid body component for tank. ... " />
-            <marker date="1509294998000" expanded="true" signature="1763:1822" ph="/// Initialize ... " />
-            <marker date="1509294998000" expanded="true" signature="1853:2684" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2016:2313" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2084:2169" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2190:2275" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2377:2674" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2445:2530" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2551:2636" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2698:2801" ph="/// Joystick values less than this will be treated as zero ... " />
-            <marker date="1509294998000" expanded="true" signature="2882:3001" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3010:3128" ph="/// The player pushed fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="3168:3330" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3213:3320" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3344:3430" ph="/// Really and truly fire the projectile. ... " />
-            <marker date="1509294998000" expanded="true" signature="3461:3676" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3708:4437" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="4355:4427" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/Projectile.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
           <folding>
-            <marker date="1509250588000" expanded="false" signature="6:60" ph="..." />
-            <marker date="1509250588000" expanded="true" signature="62:204" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
-            <marker date="1509250588000" expanded="true" signature="249:889" ph="{...}" />
-            <marker date="1509250588000" expanded="true" signature="518:887" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="35:1652" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+            <marker date="1509303383000" expanded="true" signature="154:1650" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+            <marker date="1509303383000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
+            <marker date="1509303383000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
+            <marker date="1509303383000" expanded="true" signature="590:1004" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="656:903" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="693:884" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="949:994" ph="{...}" />
+            <marker date="1509303383000" expanded="true" signature="1014:1295" ph="/// Start the projectile moving. ... " />
+            <marker date="1509303383000" expanded="true" signature="1372:1644" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
+        <state relative-caret-position="150">
           <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding>
             <marker date="1509239733000" expanded="false" signature="6:32" ph="..." />
@@ -1100,30 +1020,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <marker date="1509248681000" expanded="true" signature="35:1662" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
-            <marker date="1509248681000" expanded="true" signature="154:1660" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
-            <marker date="1509248681000" expanded="true" signature="299:364" ph="/// How fast to move ... " />
-            <marker date="1509248681000" expanded="true" signature="407:529" ph="/// Do dammage if hitting player ... " />
-            <marker date="1509248681000" expanded="true" signature="590:1009" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="661:908" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="698:889" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="954:999" ph="{...}" />
-            <marker date="1509248681000" expanded="true" signature="1019:1300" ph="/// Start the projectile moving. ... " />
-            <marker date="1509248681000" expanded="true" signature="1377:1654" ph="{...}" />
-          </folding>
+        <state relative-caret-position="270">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/Platform.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="276">
           <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <marker date="1509294083000" expanded="true" signature="34:1493" ph="{...}" />
@@ -1140,42 +1047,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="83" column="43" lean-forward="false" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+        <state relative-caret-position="1350">
+          <caret line="90" column="16" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
           <folding>
-            <marker date="1509294998000" expanded="true" signature="34:4445" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-            <marker date="1509294998000" expanded="true" signature="199:4443" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-            <marker date="1509294998000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-            <marker date="1509294998000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-            <marker date="1509294998000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
-            <marker date="1509294998000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
-            <marker date="1509294998000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
-            <marker date="1509294998000" expanded="true" signature="1063:1137" ph="/// Button to fire projectile ... " />
-            <marker date="1509294998000" expanded="true" signature="1184:1264" ph="/// Prefab for the bullets we fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1320:1417" ph="/// Color to tint the projections fired by this tank ... " />
-            <marker date="1509294998000" expanded="true" signature="1483:1578" ph="/// Time at which we will next be allowed to fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="1629:1708" ph="/// Rigid body component for tank. ... " />
-            <marker date="1509294998000" expanded="true" signature="1763:1822" ph="/// Initialize ... " />
-            <marker date="1509294998000" expanded="true" signature="1853:2684" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2016:2313" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2084:2169" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2190:2275" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2377:2674" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2445:2530" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2551:2636" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="2698:2801" ph="/// Joystick values less than this will be treated as zero ... " />
-            <marker date="1509294998000" expanded="true" signature="2882:3001" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3010:3128" ph="/// The player pushed fire. ... " />
-            <marker date="1509294998000" expanded="true" signature="3168:3330" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3213:3320" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3344:3430" ph="/// Really and truly fire the projectile. ... " />
-            <marker date="1509294998000" expanded="true" signature="3461:3676" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="3708:4437" ph="{...}" />
-            <marker date="1509294998000" expanded="true" signature="4355:4427" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="34:4037" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="41:149" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+            <marker date="1509303474000" expanded="true" signature="189:4035" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="204:275" ph="/// Delay between shooting ... " />
+            <marker date="1509303474000" expanded="true" signature="325:402" ph="/// Axis for controlling driving ... " />
+            <marker date="1509303474000" expanded="true" signature="446:524" ph="/// Axis for controlling rotation ... " />
+            <marker date="1509303474000" expanded="true" signature="570:644" ph="/// Button to fire projectile ... " />
+            <marker date="1509303474000" expanded="true" signature="688:768" ph="/// Prefab for the bullets we fire. ... " />
+            <marker date="1509303474000" expanded="true" signature="812:909" ph="/// Color to tint the projections fired by this tank ... " />
+            <marker date="1509303474000" expanded="true" signature="971:1066" ph="/// Time at which we will next be allowed to fire. ... " />
+            <marker date="1509303474000" expanded="true" signature="1109:1188" ph="/// Rigid body component for tank. ... " />
+            <marker date="1509303474000" expanded="true" signature="1232:1291" ph="/// Initialize ... " />
+            <marker date="1509303474000" expanded="true" signature="1321:2586" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="1428:1542" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="1559:1673" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="1798:2097" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="1866:1952" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="1973:2059" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="2161:2576" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="2229:2315" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="2336:2422" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="2626:2907" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="2811:2883" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="2925:3048" ph="/// The player pushed fire. ... " />
+            <marker date="1509303474000" expanded="true" signature="3088:3260" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="3137:3250" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="3270:3333" ph="/// Actually fire. ... " />
+            <marker date="1509303474000" expanded="true" signature="3363:3586" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="3640:3804" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="3695:3747" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="3850:4029" ph="{...}" />
+            <marker date="1509303474000" expanded="true" signature="3905:3957" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/WallManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <marker date="1509303472000" expanded="false" signature="6:60" ph="..." />
+            <marker date="1509303472000" expanded="true" signature="76:910" ph="{...}" />
+            <marker date="1509303472000" expanded="true" signature="80:225" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
+            <marker date="1509303472000" expanded="true" signature="267:908" ph="{...}" />
+            <marker date="1509303472000" expanded="true" signature="529:905" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -24,7 +24,7 @@ namespace Code
         /// </summary>
         /// <param name="collision"></param>
         internal void OnCollisionEnter2D(Collision2D other) {
-            if (other.gameObject.GetComponent<TankControl>() != null)
+            if (other.gameObject.GetComponent<Player>() != null)
             {
 	            if (flag)
 	            {
@@ -48,7 +48,7 @@ namespace Code
         public void Init(GameObject creator, Vector3 pos, Vector3 direction)
         {
             Creator = creator;
-            GetComponent<SpriteRenderer>().color = creator.GetComponent<TankControl>().ProjectileColor;
+            GetComponent<SpriteRenderer>().color = creator.GetComponent<Player>().ProjectileColor;
             transform.position = pos;
             GetComponent<Rigidbody2D>().velocity = Speed*direction;
 			flag = true;
