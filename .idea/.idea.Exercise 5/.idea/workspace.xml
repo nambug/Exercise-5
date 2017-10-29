@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbd02877-1961-47dd-a05a-b22f7cac0695" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/Projectile.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/Projectile.cs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Prefabs/Projectile.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Prefabs/Projectile.prefab.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/15/155e62f40a97d4c79b62debb58ab4a8a" afterPath="$PROJECT_DIR$/Library/metadata/15/155e62f40a97d4c79b62debb58ab4a8a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" afterPath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd.info" afterPath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671.info" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d" afterPath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d.info" afterPath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/ScoreManager.cs" afterPath="$PROJECT_DIR$/Assets/Code/ScoreManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/TankControl.cs" afterPath="$PROJECT_DIR$/Assets/Code/TankControl.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise 5.sln" afterPath="$PROJECT_DIR$/Exercise 5.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TankControl.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+              <folding>
+                <marker date="1509241116000" expanded="true" signature="34:3726" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+                <marker date="1509241116000" expanded="true" signature="199:3724" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
+                <marker date="1509241116000" expanded="true" signature="333:507" ph="/// Gain for velocity control. ... " />
+                <marker date="1509241116000" expanded="true" signature="561:626" ph="/// How fast to turn ... " />
+                <marker date="1509241116000" expanded="true" signature="686:757" ph="/// Delay between shooting ... " />
+                <marker date="1509241116000" expanded="true" signature="813:890" ph="/// Axis for controlling driving ... " />
+                <marker date="1509241116000" expanded="true" signature="935:1013" ph="/// Axis for controlling rotation ... " />
+                <marker date="1509241116000" expanded="true" signature="1060:1134" ph="/// Button to fire projectile ... " />
+                <marker date="1509241116000" expanded="true" signature="1183:1263" ph="/// Prefab for the bullets we fire. ... " />
+                <marker date="1509241116000" expanded="true" signature="1319:1416" ph="/// Color to tint the projections fired by this tank ... " />
+                <marker date="1509241116000" expanded="true" signature="1482:1577" ph="/// Time at which we will next be allowed to fire. ... " />
+                <marker date="1509241116000" expanded="true" signature="1628:1707" ph="/// Rigid body component for tank. ... " />
+                <marker date="1509241116000" expanded="true" signature="1762:1821" ph="/// Initialize ... " />
+                <marker date="1509241116000" expanded="true" signature="1852:1913" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="1927:2030" ph="/// Joystick values less than this will be treated as zero ... " />
+                <marker date="1509241116000" expanded="true" signature="2111:2230" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="2244:2362" ph="/// The player pushed fire. ... " />
+                <marker date="1509241116000" expanded="true" signature="2402:2564" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="2447:2554" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="2578:2664" ph="/// Really and truly fire the projectile. ... " />
+                <marker date="1509241116000" expanded="true" signature="2695:2958" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="2994:3718" ph="{...}" />
+                <marker date="1509241116000" expanded="true" signature="3636:3708" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpawnController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <marker date="1481432234000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
+                <marker date="1481432234000" expanded="true" signature="207:1513" ph="{...}" />
+                <marker date="1481432234000" expanded="true" signature="617:806" ph="{...}" />
+                <marker date="1481432234000" expanded="true" signature="812:1056" ph="/// Return a random location within the arena that is at least radius units from any other objects. ... " />
+                <marker date="1481432234000" expanded="true" signature="1113:1511" ph="{...}" />
+                <marker date="1481432234000" expanded="true" signature="1203:1470" ph="{...}" />
+                <marker date="1481432234000" expanded="true" signature="1399:1460" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScoreManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-108">
+              <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <marker date="1509239733000" expanded="false" signature="6:32" ph="..." />
+                <marker date="1509239733000" expanded="true" signature="33:107" ph="/// Keeps track of the scores of the players. ... " />
+                <marker date="1509239733000" expanded="true" signature="150:2080" ph="{...}" />
+                <marker date="1509239733000" expanded="true" signature="156:323" ph="/// This is a singleton class (i.e. there's only supposed to be one instance) ... " />
+                <marker date="1509239733000" expanded="true" signature="381:457" ph="/// GameObjects for the players' tanks. ... " />
+                <marker date="1509239733000" expanded="true" signature="500:604" ph="/// UI elements in which to display the respective players' scores. ... " />
+                <marker date="1509239733000" expanded="true" signature="656:729" ph="/// Scores for the different players ... " />
+                <marker date="1509239733000" expanded="true" signature="761:822" ph="/// Initialize component ... " />
+                <marker date="1509239733000" expanded="true" signature="848:950" ph="{...}" />
+                <marker date="1509239733000" expanded="true" signature="956:1163" ph="/// Position in the Players, Scores, and ScoreFields arrays of player ... " />
+                <marker date="1509239733000" expanded="true" signature="1210:1410" ph="{...}" />
+                <marker date="1509239733000" expanded="true" signature="1416:1585" ph="/// Increase the score for the designated player ... " />
+                <marker date="1509239733000" expanded="true" signature="1650:1833" ph="{...}" />
+                <marker date="1509239733000" expanded="true" signature="1839:1907" ph="/// Update all the score fields ... " />
+                <marker date="1509239733000" expanded="true" signature="1937:2078" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bullet.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-129">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <marker date="1509240833000" expanded="true" signature="35:1625" ph="{...}" />
+                <marker date="1509240833000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+                <marker date="1509240833000" expanded="true" signature="154:1623" ph="{...}" />
+                <marker date="1509240833000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+                <marker date="1509240833000" expanded="true" signature="268:333" ph="/// How fast to move ... " />
+                <marker date="1509240833000" expanded="true" signature="376:498" ph="/// Do dammage if hitting player ... " />
+                <marker date="1509240833000" expanded="true" signature="563:988" ph="{...}" />
+                <marker date="1509240833000" expanded="true" signature="638:850" ph="{...}" />
+                <marker date="1509240833000" expanded="true" signature="908:978" ph="{...}" />
+                <marker date="1509240833000" expanded="true" signature="998:1279" ph="/// Start the projectile moving. ... " />
+                <marker date="1509240833000" expanded="true" signature="1356:1617" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Players</find>
+      <find>Projectile</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/ScoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/TankControl.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise 5 (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbd02877-1961-47dd-a05a-b22f7cac0695" name="Default" comment="" />
+      <created>1509239220047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509239220047</updated>
+      <workItem from="1509239223456" duration="1795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1795000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="700" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Projectile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <marker date="1509239733000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1509239733000" expanded="true" signature="33:107" ph="/// Keeps track of the scores of the players. ... " />
+            <marker date="1509239733000" expanded="true" signature="150:2080" ph="{...}" />
+            <marker date="1509239733000" expanded="true" signature="156:323" ph="/// This is a singleton class (i.e. there's only supposed to be one instance) ... " />
+            <marker date="1509239733000" expanded="true" signature="381:457" ph="/// GameObjects for the players' tanks. ... " />
+            <marker date="1509239733000" expanded="true" signature="500:604" ph="/// UI elements in which to display the respective players' scores. ... " />
+            <marker date="1509239733000" expanded="true" signature="656:729" ph="/// Scores for the different players ... " />
+            <marker date="1509239733000" expanded="true" signature="761:822" ph="/// Initialize component ... " />
+            <marker date="1509239733000" expanded="true" signature="848:950" ph="{...}" />
+            <marker date="1509239733000" expanded="true" signature="956:1163" ph="/// Position in the Players, Scores, and ScoreFields arrays of player ... " />
+            <marker date="1509239733000" expanded="true" signature="1210:1410" ph="{...}" />
+            <marker date="1509239733000" expanded="true" signature="1416:1585" ph="/// Increase the score for the designated player ... " />
+            <marker date="1509239733000" expanded="true" signature="1650:1833" ph="{...}" />
+            <marker date="1509239733000" expanded="true" signature="1839:1907" ph="/// Update all the score fields ... " />
+            <marker date="1509239733000" expanded="true" signature="1937:2078" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <marker date="1481432234000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
+            <marker date="1481432234000" expanded="true" signature="207:1513" ph="{...}" />
+            <marker date="1481432234000" expanded="true" signature="617:806" ph="{...}" />
+            <marker date="1481432234000" expanded="true" signature="812:1056" ph="/// Return a random location within the arena that is at least radius units from any other objects. ... " />
+            <marker date="1481432234000" expanded="true" signature="1113:1511" ph="{...}" />
+            <marker date="1481432234000" expanded="true" signature="1203:1470" ph="{...}" />
+            <marker date="1481432234000" expanded="true" signature="1399:1460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1509240833000" expanded="true" signature="35:1625" ph="{...}" />
+            <marker date="1509240833000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+            <marker date="1509240833000" expanded="true" signature="154:1623" ph="{...}" />
+            <marker date="1509240833000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+            <marker date="1509240833000" expanded="true" signature="268:333" ph="/// How fast to move ... " />
+            <marker date="1509240833000" expanded="true" signature="376:498" ph="/// Do dammage if hitting player ... " />
+            <marker date="1509240833000" expanded="true" signature="563:988" ph="{...}" />
+            <marker date="1509240833000" expanded="true" signature="638:850" ph="{...}" />
+            <marker date="1509240833000" expanded="true" signature="908:978" ph="{...}" />
+            <marker date="1509240833000" expanded="true" signature="998:1279" ph="/// Start the projectile moving. ... " />
+            <marker date="1509240833000" expanded="true" signature="1356:1617" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <marker date="1509241116000" expanded="true" signature="34:3726" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+            <marker date="1509241116000" expanded="true" signature="199:3724" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
+            <marker date="1509241116000" expanded="true" signature="333:507" ph="/// Gain for velocity control. ... " />
+            <marker date="1509241116000" expanded="true" signature="561:626" ph="/// How fast to turn ... " />
+            <marker date="1509241116000" expanded="true" signature="686:757" ph="/// Delay between shooting ... " />
+            <marker date="1509241116000" expanded="true" signature="813:890" ph="/// Axis for controlling driving ... " />
+            <marker date="1509241116000" expanded="true" signature="935:1013" ph="/// Axis for controlling rotation ... " />
+            <marker date="1509241116000" expanded="true" signature="1060:1134" ph="/// Button to fire projectile ... " />
+            <marker date="1509241116000" expanded="true" signature="1183:1263" ph="/// Prefab for the bullets we fire. ... " />
+            <marker date="1509241116000" expanded="true" signature="1319:1416" ph="/// Color to tint the projections fired by this tank ... " />
+            <marker date="1509241116000" expanded="true" signature="1482:1577" ph="/// Time at which we will next be allowed to fire. ... " />
+            <marker date="1509241116000" expanded="true" signature="1628:1707" ph="/// Rigid body component for tank. ... " />
+            <marker date="1509241116000" expanded="true" signature="1762:1821" ph="/// Initialize ... " />
+            <marker date="1509241116000" expanded="true" signature="1852:1913" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="1927:2030" ph="/// Joystick values less than this will be treated as zero ... " />
+            <marker date="1509241116000" expanded="true" signature="2111:2230" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="2244:2362" ph="/// The player pushed fire. ... " />
+            <marker date="1509241116000" expanded="true" signature="2402:2564" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="2447:2554" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="2578:2664" ph="/// Really and truly fire the projectile. ... " />
+            <marker date="1509241116000" expanded="true" signature="2695:2958" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="2994:3718" ph="{...}" />
+            <marker date="1509241116000" expanded="true" signature="3636:3708" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

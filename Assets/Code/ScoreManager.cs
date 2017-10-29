@@ -9,10 +9,12 @@ public class ScoreManager : MonoBehaviour {
     /// This makes it easy to find the one instance.
     /// </summary>
     private static ScoreManager theScoreScript;
+    
     /// <summary>
     /// GameObjects for the players' tanks.
     /// </summary>
     public GameObject[] Players;
+    
     /// <summary>
     /// UI elements in which to display the respective players' scores.
     /// </summary>
