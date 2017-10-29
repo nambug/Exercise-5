@@ -8,23 +8,22 @@ namespace Code
     /// </summary>
     public class ScoreManager : MonoBehaviour {
         /// <summary>
-        /// This is a singleton class (i.e. there's only supposed to be one instance)
-        /// This makes it easy to find the one instance.
+        /// Singleton class
         /// </summary>
         private static ScoreManager _theScoreScript;
         
         /// <summary>
-        /// GameObjects for the players' tanks.
+        /// GameObjects array for players
         /// </summary>
         public GameObject[] Players;
         
         /// <summary>
-        /// UI elements in which to display the respective players' scores.
+        /// UI elements to display the players' scores.
         /// </summary>
         public UnityEngine.UI.Text[] ScoreFields;
     
         /// <summary>
-        /// Scores for the different players
+        /// Scores for the players
         /// </summary>
         private int[] _scores;
     
@@ -38,7 +37,7 @@ namespace Code
         }
     
         /// <summary>
-        /// Position in the Players, Scores, and ScoreFields arrays of player
+        /// Gets the position in the Players array of a given player
         /// </summary>
         /// <param name="player">Player to find</param>
         /// <returns>Index into the arrays</returns>
@@ -51,10 +50,8 @@ namespace Code
         }
     
         /// <summary>
-        /// Increase the score for the designated player
+        /// Increase the score for a given player
         /// </summary>
-        /// <param name="player">Player</param>
-        /// <param name="val">Score</param>
         public static void IncreaseScore(GameObject player, int val)
         {
             var playerNumber = PlayerNumber(player);
@@ -64,7 +61,7 @@ namespace Code
         }
     
         /// <summary>
-        /// Update all the score fields
+        /// Update all the score text fields
         /// </summary>
         private void UpdateText(){
             for (int i=0; i<Players.Length; i++)

@@ -15,12 +15,12 @@ namespace Code
 		private bool _flag = false;
 
         /// <summary>
-        /// How fast to move
+        /// Bullet Speed
         /// </summary>
-        public float Speed = 5f;
+        private float _speed = 5f;
 
         /// <summary>
-        /// Do damage if hitting player
+        /// Deal with bullet collisions: kill the bullet, do damage to other players
         /// </summary>
         /// <param name="other"></param>
         internal void OnCollisionEnter2D(Collision2D other) {
@@ -28,29 +28,25 @@ namespace Code
             {
 	            if (_flag)
 	            {
-		            var points = Creator != other.gameObject ? 10 : -20;
+		            var points = Creator == other.gameObject ? -1 : 2;
 		            ScoreManager.IncreaseScore(Creator, points);
 		            Destroy(gameObject);
 	            }     
             }
-			if (other.gameObject.CompareTag ("Wall")) {
-				if(_flag)
-					Destroy(gameObject);
-			}
+	        if (!other.gameObject.CompareTag("Wall")) return;
+	        if(_flag)
+		        Destroy(gameObject);
         }
 
         /// <summary>
-        /// Start the projectile moving.
+        /// Initialize projectile
         /// </summary>
-        /// <param name="creator">Who's shooting</param>
-        /// <param name="pos">Where to place the projectile</param>
-        /// <param name="direction">Direction to move in (unit vector)</param>
         public void Init(GameObject creator, Vector3 pos, Vector3 direction)
         {
             Creator = creator;
-            GetComponent<SpriteRenderer>().color = creator.GetComponent<Player>().ProjectileColor;
+            GetComponent<SpriteRenderer>().color = creator.GetComponent<Player>().BulletColor;
             transform.position = pos;
-            GetComponent<Rigidbody2D>().velocity = Speed*direction;
+            GetComponent<Rigidbody2D>().velocity = _speed*direction;
 			_flag = true;
         }
     }

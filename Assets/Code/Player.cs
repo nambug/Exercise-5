@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Runtime.CompilerServices;
+using UnityEngine;
 
 namespace Code
 {
@@ -8,17 +9,17 @@ namespace Code
     public class Player : MonoBehaviour
     {
         /// <summary>
-        /// Delay between shooting
+        /// Cooldown time between shots
         /// </summary>
         private float _cooldown = 0.5f;
 
         /// <summary>
-        /// Axis for controlling driving
+        /// Thrust axis
         /// </summary>
         private string _vertical;
 
         /// <summary>
-        /// Axis for controlling rotation
+        /// Turn Axis
         /// </summary>
         private string _horizontal;
 
@@ -28,14 +29,15 @@ namespace Code
         private string _fireAxis;
 
         /// <summary>
-        /// Prefab for the bullets we fire.
+        /// The bullet prefab
         /// </summary>
         public GameObject Bullet;
 
         /// <summary>
-        /// Color to tint the projections fired by this tank
+        /// Color to tint the projections fired by this player
+        /// might be deprecated by this point, but I don't feel like messing with it
         /// </summary>
-        public Color ProjectileColor = Color.white;
+        public Color BulletColor;
 
         /// <summary>
         /// Time at which we will next be allowed to fire.
@@ -43,26 +45,39 @@ namespace Code
         private float _nextFire;
 
         /// <summary>
-        /// Rigid body component for tank.
+        /// Rigid body component for player.
         /// </summary>
         private Rigidbody2D _rb;
 
-
+        /// <summary>
+        /// Sprite renderer Component for this player.
+        /// </summary>
+        private SpriteRenderer _sprite;
+        
         /// <summary>
         /// Initialize
         /// </summary>
         internal void Start()
         {
             _rb = GetComponent<Rigidbody2D>();
+            _sprite = GetComponent<SpriteRenderer>();
+            
+            
             if (gameObject.CompareTag("Player1"))
             {
                 _horizontal = "Horizontal1";
                 _vertical = "Vertical1";
+                _sprite.color = Color.red;
+                BulletColor = Color.red;
             }
             else
             {
                 _horizontal = "Horizontal2";
                 _vertical = "Vertical2";
+                _sprite.color = Color.blue;
+                BulletColor = Color.blue;
+
+
             }
             
             if ((Platform.GetPlatform() == PlatformType.Mac) || (Platform.GetPlatform() == PlatformType.Linux))
@@ -88,7 +103,6 @@ namespace Code
                     _fireAxis = "FireAxis2(Win)";
                 }
                 Debug.Log(GameObject.FindGameObjectWithTag("Player1").gameObject.GetComponent<Player>()._fireAxis);
-                return;
             }
         }
         
@@ -98,38 +112,21 @@ namespace Code
             Thrust(Input.GetAxis(_vertical));
             
             // Firing
-            if (Input.GetAxis(_fireAxis) > 0f)
-            {
-                FireProjectileIfPossible();   
-            }
-
-            
+            if (Input.GetAxis(_fireAxis) <= 0f) return;  
+            if (Time.time > _nextFire) Fire();
         }
         
         /// <summary>
-        /// The player pushed fire.
-        /// Check to see if we can fire projectile
+        /// Fire a bullet
         /// </summary>
-        void FireProjectileIfPossible()
+        private void Fire()
         {
-            if (Time.time > _nextFire)
-            {
-                FireProjectile();
-                _nextFire = Time.time + _cooldown;
-            }
-        }
-
-        /// <summary>
-        /// Actually fire.
-        /// </summary>
-        void FireProjectile()
-        {
-            var go = Instantiate(Bullet);
-            var ps = go.GetComponent<Bullet>();
+            var newBullet = Instantiate(Bullet);
+            var bulletComponent = newBullet.GetComponent<Bullet>();
             var up = transform.up.normalized;
-            ps.Init(gameObject, transform.position + up * 2f, up);
+            bulletComponent.Init(gameObject, gameObject.transform.position + (up * 2f), up);
+            _nextFire = Time.time + _cooldown;
         }
-
         
 
         private void Turn(float direction)
