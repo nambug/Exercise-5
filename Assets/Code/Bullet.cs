@@ -12,6 +12,8 @@ namespace Code
         /// </summary>
         public GameObject Creator;
 
+		private bool flag = false;
+
         /// <summary>
         /// How fast to move
         /// </summary>
@@ -26,9 +28,13 @@ namespace Code
             {
                 var points = Creator != other.gameObject ? 10 : -20;
                 ScoreManager.IncreaseScore(Creator, points);
-            
-                Destroy(gameObject);
+				if(flag)
+                	Destroy(gameObject);
             }
+			if (other.gameObject.CompareTag ("Wall")) {
+				if(flag)
+					Destroy(gameObject);
+			}
         }
 
         /// <summary>
@@ -43,6 +49,7 @@ namespace Code
             GetComponent<SpriteRenderer>().color = creator.GetComponent<TankControl>().ProjectileColor;
             transform.position = pos;
             GetComponent<Rigidbody2D>().velocity = Speed*direction;
+			flag = true;
         }
     }
 }
