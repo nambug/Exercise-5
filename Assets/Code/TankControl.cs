@@ -9,7 +9,7 @@ namespace Code
         /// <summary>
         /// How fast to drive
         /// </summary>
-        public float ForwardSpeed = 10f;
+        public float ForwardSpeed = 20f;
         
         /// <summary>
         /// Gain for velocity control.
@@ -20,7 +20,7 @@ namespace Code
         /// <summary>
         /// How fast to turn
         /// </summary>
-        public float RotationSpeed = 80f;
+        public float RotationSpeed = 200f;
         
         /// <summary>
         /// Delay between shooting

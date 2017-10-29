@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd02877-1961-47dd-a05a-b22f7cac0695" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Main.unity" afterPath="$PROJECT_DIR$/Assets/Main.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/TankControl.cs" afterPath="$PROJECT_DIR$/Assets/Code/TankControl.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" />
@@ -27,34 +26,34 @@
       <file leaf-file-name="TankControl.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="106" column="12" lean-forward="true" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+            <state relative-caret-position="248">
+              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
               <folding>
-                <marker date="1509253789000" expanded="true" signature="34:3672" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-                <marker date="1509253789000" expanded="true" signature="199:3670" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-                <marker date="1509253789000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-                <marker date="1509253789000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-                <marker date="1509253789000" expanded="true" signature="687:758" ph="/// Delay between shooting ... " />
-                <marker date="1509253789000" expanded="true" signature="814:891" ph="/// Axis for controlling driving ... " />
-                <marker date="1509253789000" expanded="true" signature="936:1014" ph="/// Axis for controlling rotation ... " />
-                <marker date="1509253789000" expanded="true" signature="1061:1135" ph="/// Button to fire projectile ... " />
-                <marker date="1509253789000" expanded="true" signature="1181:1261" ph="/// Prefab for the bullets we fire. ... " />
-                <marker date="1509253789000" expanded="true" signature="1317:1414" ph="/// Color to tint the projections fired by this tank ... " />
-                <marker date="1509253789000" expanded="true" signature="1480:1575" ph="/// Time at which we will next be allowed to fire. ... " />
-                <marker date="1509253789000" expanded="true" signature="1626:1705" ph="/// Rigid body component for tank. ... " />
-                <marker date="1509253789000" expanded="true" signature="1760:1819" ph="/// Initialize ... " />
-                <marker date="1509253789000" expanded="true" signature="1850:1911" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="1925:2028" ph="/// Joystick values less than this will be treated as zero ... " />
-                <marker date="1509253789000" expanded="true" signature="2109:2228" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="2237:2355" ph="/// The player pushed fire. ... " />
-                <marker date="1509253789000" expanded="true" signature="2395:2557" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="2440:2547" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="2571:2657" ph="/// Really and truly fire the projectile. ... " />
-                <marker date="1509253789000" expanded="true" signature="2688:2903" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="2935:3664" ph="{...}" />
-                <marker date="1509253789000" expanded="true" signature="3582:3654" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="34:3673" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+                <marker date="1509254100000" expanded="true" signature="199:3671" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
+                <marker date="1509254100000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
+                <marker date="1509254100000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
+                <marker date="1509254100000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
+                <marker date="1509254100000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
+                <marker date="1509254100000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
+                <marker date="1509254100000" expanded="true" signature="1062:1136" ph="/// Button to fire projectile ... " />
+                <marker date="1509254100000" expanded="true" signature="1182:1262" ph="/// Prefab for the bullets we fire. ... " />
+                <marker date="1509254100000" expanded="true" signature="1318:1415" ph="/// Color to tint the projections fired by this tank ... " />
+                <marker date="1509254100000" expanded="true" signature="1481:1576" ph="/// Time at which we will next be allowed to fire. ... " />
+                <marker date="1509254100000" expanded="true" signature="1627:1706" ph="/// Rigid body component for tank. ... " />
+                <marker date="1509254100000" expanded="true" signature="1761:1820" ph="/// Initialize ... " />
+                <marker date="1509254100000" expanded="true" signature="1851:1912" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="1926:2029" ph="/// Joystick values less than this will be treated as zero ... " />
+                <marker date="1509254100000" expanded="true" signature="2110:2229" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="2238:2356" ph="/// The player pushed fire. ... " />
+                <marker date="1509254100000" expanded="true" signature="2396:2558" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="2441:2548" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="2572:2658" ph="/// Really and truly fire the projectile. ... " />
+                <marker date="1509254100000" expanded="true" signature="2689:2904" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="2936:3665" ph="{...}" />
+                <marker date="1509254100000" expanded="true" signature="3583:3655" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -292,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10059000" />
+    <option name="totallyTimeSpent" value="10185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,31 +410,31 @@
         <state relative-caret-position="1208">
           <caret line="104" column="23" lean-forward="false" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
           <folding>
-            <marker date="1509253789000" expanded="true" signature="34:3672" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-            <marker date="1509253789000" expanded="true" signature="199:3670" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-            <marker date="1509253789000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-            <marker date="1509253789000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-            <marker date="1509253789000" expanded="true" signature="687:758" ph="/// Delay between shooting ... " />
-            <marker date="1509253789000" expanded="true" signature="814:891" ph="/// Axis for controlling driving ... " />
-            <marker date="1509253789000" expanded="true" signature="936:1014" ph="/// Axis for controlling rotation ... " />
-            <marker date="1509253789000" expanded="true" signature="1061:1135" ph="/// Button to fire projectile ... " />
-            <marker date="1509253789000" expanded="true" signature="1181:1261" ph="/// Prefab for the bullets we fire. ... " />
-            <marker date="1509253789000" expanded="true" signature="1317:1414" ph="/// Color to tint the projections fired by this tank ... " />
-            <marker date="1509253789000" expanded="true" signature="1480:1575" ph="/// Time at which we will next be allowed to fire. ... " />
-            <marker date="1509253789000" expanded="true" signature="1626:1705" ph="/// Rigid body component for tank. ... " />
-            <marker date="1509253789000" expanded="true" signature="1760:1819" ph="/// Initialize ... " />
-            <marker date="1509253789000" expanded="true" signature="1850:1911" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="1925:2028" ph="/// Joystick values less than this will be treated as zero ... " />
-            <marker date="1509253789000" expanded="true" signature="2109:2228" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2237:2355" ph="/// The player pushed fire. ... " />
-            <marker date="1509253789000" expanded="true" signature="2395:2557" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2440:2547" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2571:2657" ph="/// Really and truly fire the projectile. ... " />
-            <marker date="1509253789000" expanded="true" signature="2688:2903" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2935:3664" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="3582:3654" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="34:3673" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+            <marker date="1509254100000" expanded="true" signature="199:3671" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
+            <marker date="1509254100000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
+            <marker date="1509254100000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
+            <marker date="1509254100000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
+            <marker date="1509254100000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
+            <marker date="1509254100000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
+            <marker date="1509254100000" expanded="true" signature="1062:1136" ph="/// Button to fire projectile ... " />
+            <marker date="1509254100000" expanded="true" signature="1182:1262" ph="/// Prefab for the bullets we fire. ... " />
+            <marker date="1509254100000" expanded="true" signature="1318:1415" ph="/// Color to tint the projections fired by this tank ... " />
+            <marker date="1509254100000" expanded="true" signature="1481:1576" ph="/// Time at which we will next be allowed to fire. ... " />
+            <marker date="1509254100000" expanded="true" signature="1627:1706" ph="/// Rigid body component for tank. ... " />
+            <marker date="1509254100000" expanded="true" signature="1761:1820" ph="/// Initialize ... " />
+            <marker date="1509254100000" expanded="true" signature="1851:1912" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="1926:2029" ph="/// Joystick values less than this will be treated as zero ... " />
+            <marker date="1509254100000" expanded="true" signature="2110:2229" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2238:2356" ph="/// The player pushed fire. ... " />
+            <marker date="1509254100000" expanded="true" signature="2396:2558" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2441:2548" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2572:2658" ph="/// Really and truly fire the projectile. ... " />
+            <marker date="1509254100000" expanded="true" signature="2689:2904" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2936:3665" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="3583:3655" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -501,34 +500,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="106" column="12" lean-forward="true" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
+        <state relative-caret-position="248">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding>
-            <marker date="1509253789000" expanded="true" signature="34:3672" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-            <marker date="1509253789000" expanded="true" signature="199:3670" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-            <marker date="1509253789000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
-            <marker date="1509253789000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
-            <marker date="1509253789000" expanded="true" signature="687:758" ph="/// Delay between shooting ... " />
-            <marker date="1509253789000" expanded="true" signature="814:891" ph="/// Axis for controlling driving ... " />
-            <marker date="1509253789000" expanded="true" signature="936:1014" ph="/// Axis for controlling rotation ... " />
-            <marker date="1509253789000" expanded="true" signature="1061:1135" ph="/// Button to fire projectile ... " />
-            <marker date="1509253789000" expanded="true" signature="1181:1261" ph="/// Prefab for the bullets we fire. ... " />
-            <marker date="1509253789000" expanded="true" signature="1317:1414" ph="/// Color to tint the projections fired by this tank ... " />
-            <marker date="1509253789000" expanded="true" signature="1480:1575" ph="/// Time at which we will next be allowed to fire. ... " />
-            <marker date="1509253789000" expanded="true" signature="1626:1705" ph="/// Rigid body component for tank. ... " />
-            <marker date="1509253789000" expanded="true" signature="1760:1819" ph="/// Initialize ... " />
-            <marker date="1509253789000" expanded="true" signature="1850:1911" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="1925:2028" ph="/// Joystick values less than this will be treated as zero ... " />
-            <marker date="1509253789000" expanded="true" signature="2109:2228" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2237:2355" ph="/// The player pushed fire. ... " />
-            <marker date="1509253789000" expanded="true" signature="2395:2557" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2440:2547" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2571:2657" ph="/// Really and truly fire the projectile. ... " />
-            <marker date="1509253789000" expanded="true" signature="2688:2903" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="2935:3664" ph="{...}" />
-            <marker date="1509253789000" expanded="true" signature="3582:3654" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="34:3673" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+            <marker date="1509254100000" expanded="true" signature="199:3671" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
+            <marker date="1509254100000" expanded="true" signature="334:508" ph="/// Gain for velocity control. ... " />
+            <marker date="1509254100000" expanded="true" signature="562:627" ph="/// How fast to turn ... " />
+            <marker date="1509254100000" expanded="true" signature="688:759" ph="/// Delay between shooting ... " />
+            <marker date="1509254100000" expanded="true" signature="815:892" ph="/// Axis for controlling driving ... " />
+            <marker date="1509254100000" expanded="true" signature="937:1015" ph="/// Axis for controlling rotation ... " />
+            <marker date="1509254100000" expanded="true" signature="1062:1136" ph="/// Button to fire projectile ... " />
+            <marker date="1509254100000" expanded="true" signature="1182:1262" ph="/// Prefab for the bullets we fire. ... " />
+            <marker date="1509254100000" expanded="true" signature="1318:1415" ph="/// Color to tint the projections fired by this tank ... " />
+            <marker date="1509254100000" expanded="true" signature="1481:1576" ph="/// Time at which we will next be allowed to fire. ... " />
+            <marker date="1509254100000" expanded="true" signature="1627:1706" ph="/// Rigid body component for tank. ... " />
+            <marker date="1509254100000" expanded="true" signature="1761:1820" ph="/// Initialize ... " />
+            <marker date="1509254100000" expanded="true" signature="1851:1912" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="1926:2029" ph="/// Joystick values less than this will be treated as zero ... " />
+            <marker date="1509254100000" expanded="true" signature="2110:2229" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2238:2356" ph="/// The player pushed fire. ... " />
+            <marker date="1509254100000" expanded="true" signature="2396:2558" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2441:2548" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2572:2658" ph="/// Really and truly fire the projectile. ... " />
+            <marker date="1509254100000" expanded="true" signature="2689:2904" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="2936:3665" ph="{...}" />
+            <marker date="1509254100000" expanded="true" signature="3583:3655" ph="{...}" />
           </folding>
         </state>
       </provider>
