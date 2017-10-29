@@ -79,7 +79,6 @@ namespace Code
                 return 0;
             return axis;
         }
-    
         /// <summary>
         /// The player pushed fire.
         /// Launch if we aren't cooling down.

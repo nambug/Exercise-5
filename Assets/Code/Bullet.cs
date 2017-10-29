@@ -11,6 +11,7 @@ namespace Code
         /// Who shot us
         /// </summary>
         public GameObject Creator;
+
         /// <summary>
         /// How fast to move
         /// </summary>
@@ -20,18 +21,13 @@ namespace Code
         /// Do dammage if hitting player
         /// </summary>
         /// <param name="collision"></param>
-        internal void OnCollisionEnter2D(Collision2D collision) {
-            if (collision.gameObject.GetComponent<TankControl>() != null)
+        internal void OnCollisionEnter2D(Collision2D other) {
+            if (other.gameObject.GetComponent<TankControl>() != null)
             {
-                var points = Creator != collision.gameObject ? 10 : -20;
+                var points = Creator != other.gameObject ? 10 : -20;
                 ScoreManager.IncreaseScore(Creator, points);
             
                 Destroy(gameObject);
-            }
-
-            if (collision.gameObject.CompareTag("Wall"))
-            {
-                Destroy(this.gameObject);
             }
         }
 

@@ -2,26 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd02877-1961-47dd-a05a-b22f7cac0695" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/Projectile.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Code/Projectile.cs.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Prefabs/Projectile.prefab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Prefabs/Projectile.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/ProjectileMaterial.physicsMaterial2D" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/ProjectileMaterial.physicsMaterial2D.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/TankMaterial.physicsMaterial2D" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/TankMaterial.physicsMaterial2D.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/WallMaterial.physicsMaterial2D" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/Materials/WallMaterial.physicsMaterial2D.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Animations.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Animations/ExpAnimator.controller" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Animations/ExpAnimator.controller.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Animations/Explosion.anim" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Animations/Explosion.anim.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Prefabs.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Prefabs/Explosion.prefab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Prefabs/Explosion.prefab.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Textures.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Textures/Explosion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/ToonExplosion v1.0/Textures/Explosion.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/CrashedAssetImports.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/07/07c5fcbc7d37e354796d059af5f3c5f3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/07/07c5fcbc7d37e354796d059af5f3c5f3.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/15/15e758bb18aad9c438161ec381f54da8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/15/15e758bb18aad9c438161ec381f54da8.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/3f/3fd607cdcba928e4bac01539d47dd49c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/3f/3fd607cdcba928e4bac01539d47dd49c.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/46/46d9b92f79b9bf14ba2729c1e17bf16d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/46/46d9b92f79b9bf14ba2729c1e17bf16d.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/52/52448dd4ec5ed074183f92f307888e73" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/52/52448dd4ec5ed074183f92f307888e73.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/6a/6ae2419c5fa9b954e92cf36d7c9105d8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/6a/6ae2419c5fa9b954e92cf36d7c9105d8.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/77/77831dc0ee8b73e4ba5fe0a3eab7de16" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/77/77831dc0ee8b73e4ba5fe0a3eab7de16.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/a9/a9b1cc6495148ae468e73022d9e64863" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/a9/a9b1cc6495148ae468e73022d9e64863.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/b1/b185c1a9cf067374586d095111b15bd1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/b1/b185c1a9cf067374586d095111b15bd1.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/c1/c1b27ae684e120a4bb7ac67715a6a490" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/c1/c1b27ae684e120a4bb7ac67715a6a490.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/c8/c8260d15cb31d3d49a251f7cdb4d1777" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/c8/c8260d15cb31d3d49a251f7cdb4d1777.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/fb/fb3b6e5c6820a7a41b6f225997ca310d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Library/metadata/fb/fb3b6e5c6820a7a41b6f225997ca310d.info" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Main.unity" afterPath="$PROJECT_DIR$/Assets/Main.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/15/155e62f40a97d4c79b62debb58ab4a8a" afterPath="$PROJECT_DIR$/Library/metadata/15/155e62f40a97d4c79b62debb58ab4a8a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000002000000000000000" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" afterPath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd.info" afterPath="$PROJECT_DIR$/Library/metadata/57/57463948d0f6f4218aeb1b4a005165bd.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671.info" afterPath="$PROJECT_DIR$/Library/metadata/77/778a009b21daf4db9821046c95c03671.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d" afterPath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d.info" afterPath="$PROJECT_DIR$/Library/metadata/c3/c3b4183b337ee4e46a89d7728faf947d.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/ScoreManager.cs" afterPath="$PROJECT_DIR$/Assets/Code/ScoreManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Exercise 5/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/Bullet.cs" afterPath="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Code/TankControl.cs" afterPath="$PROJECT_DIR$/Assets/Code/TankControl.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise 5.sln" afterPath="$PROJECT_DIR$/Exercise 5.sln" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,37 +71,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TankControl.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TankControl.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="1200">
+              <caret line="80" column="9" lean-forward="false" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
               <folding>
-                <marker date="1509241116000" expanded="true" signature="34:3726" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-                <marker date="1509241116000" expanded="true" signature="199:3724" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-                <marker date="1509241116000" expanded="true" signature="333:507" ph="/// Gain for velocity control. ... " />
-                <marker date="1509241116000" expanded="true" signature="561:626" ph="/// How fast to turn ... " />
-                <marker date="1509241116000" expanded="true" signature="686:757" ph="/// Delay between shooting ... " />
-                <marker date="1509241116000" expanded="true" signature="813:890" ph="/// Axis for controlling driving ... " />
-                <marker date="1509241116000" expanded="true" signature="935:1013" ph="/// Axis for controlling rotation ... " />
-                <marker date="1509241116000" expanded="true" signature="1060:1134" ph="/// Button to fire projectile ... " />
-                <marker date="1509241116000" expanded="true" signature="1183:1263" ph="/// Prefab for the bullets we fire. ... " />
-                <marker date="1509241116000" expanded="true" signature="1319:1416" ph="/// Color to tint the projections fired by this tank ... " />
-                <marker date="1509241116000" expanded="true" signature="1482:1577" ph="/// Time at which we will next be allowed to fire. ... " />
-                <marker date="1509241116000" expanded="true" signature="1628:1707" ph="/// Rigid body component for tank. ... " />
-                <marker date="1509241116000" expanded="true" signature="1762:1821" ph="/// Initialize ... " />
-                <marker date="1509241116000" expanded="true" signature="1852:1913" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="1927:2030" ph="/// Joystick values less than this will be treated as zero ... " />
-                <marker date="1509241116000" expanded="true" signature="2111:2230" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="2244:2362" ph="/// The player pushed fire. ... " />
-                <marker date="1509241116000" expanded="true" signature="2402:2564" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="2447:2554" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="2578:2664" ph="/// Really and truly fire the projectile. ... " />
-                <marker date="1509241116000" expanded="true" signature="2695:2958" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="2994:3718" ph="{...}" />
-                <marker date="1509241116000" expanded="true" signature="3636:3708" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="34:3721" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+                <marker date="1509244809000" expanded="true" signature="199:3719" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
+                <marker date="1509244809000" expanded="true" signature="333:507" ph="/// Gain for velocity control. ... " />
+                <marker date="1509244809000" expanded="true" signature="561:626" ph="/// How fast to turn ... " />
+                <marker date="1509244809000" expanded="true" signature="686:757" ph="/// Delay between shooting ... " />
+                <marker date="1509244809000" expanded="true" signature="813:890" ph="/// Axis for controlling driving ... " />
+                <marker date="1509244809000" expanded="true" signature="935:1013" ph="/// Axis for controlling rotation ... " />
+                <marker date="1509244809000" expanded="true" signature="1060:1134" ph="/// Button to fire projectile ... " />
+                <marker date="1509244809000" expanded="true" signature="1183:1263" ph="/// Prefab for the bullets we fire. ... " />
+                <marker date="1509244809000" expanded="true" signature="1319:1416" ph="/// Color to tint the projections fired by this tank ... " />
+                <marker date="1509244809000" expanded="true" signature="1482:1577" ph="/// Time at which we will next be allowed to fire. ... " />
+                <marker date="1509244809000" expanded="true" signature="1628:1707" ph="/// Rigid body component for tank. ... " />
+                <marker date="1509244809000" expanded="true" signature="1762:1821" ph="/// Initialize ... " />
+                <marker date="1509244809000" expanded="true" signature="1852:1913" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="1927:2030" ph="/// Joystick values less than this will be treated as zero ... " />
+                <marker date="1509244809000" expanded="true" signature="2111:2230" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="2239:2357" ph="/// The player pushed fire. ... " />
+                <marker date="1509244809000" expanded="true" signature="2397:2559" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="2442:2549" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="2573:2659" ph="/// Really and truly fire the projectile. ... " />
+                <marker date="1509244809000" expanded="true" signature="2690:2953" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="2989:3713" ph="{...}" />
+                <marker date="1509244809000" expanded="true" signature="3631:3703" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -73,7 +110,7 @@
       <file leaf-file-name="SpawnController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="218">
               <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
                 <marker date="1481432234000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
@@ -91,7 +128,7 @@
       <file leaf-file-name="ScoreManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
+            <state relative-caret-position="-151">
               <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <marker date="1509239733000" expanded="false" signature="6:32" ph="..." />
@@ -114,23 +151,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bullet.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Bullet.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-129">
-              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="275">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
-                <marker date="1509240833000" expanded="true" signature="35:1625" ph="{...}" />
-                <marker date="1509240833000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
-                <marker date="1509240833000" expanded="true" signature="154:1623" ph="{...}" />
-                <marker date="1509240833000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
-                <marker date="1509240833000" expanded="true" signature="268:333" ph="/// How fast to move ... " />
-                <marker date="1509240833000" expanded="true" signature="376:498" ph="/// Do dammage if hitting player ... " />
-                <marker date="1509240833000" expanded="true" signature="563:988" ph="{...}" />
-                <marker date="1509240833000" expanded="true" signature="638:850" ph="{...}" />
-                <marker date="1509240833000" expanded="true" signature="908:978" ph="{...}" />
-                <marker date="1509240833000" expanded="true" signature="998:1279" ph="/// Start the projectile moving. ... " />
-                <marker date="1509240833000" expanded="true" signature="1356:1617" ph="{...}" />
+                <marker date="1509246233000" expanded="true" signature="35:1486" ph="{...}" />
+                <marker date="1509246233000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+                <marker date="1509246233000" expanded="true" signature="154:1484" ph="{...}" />
+                <marker date="1509246233000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+                <marker date="1509246233000" expanded="true" signature="269:334" ph="/// How fast to move ... " />
+                <marker date="1509246233000" expanded="true" signature="377:499" ph="/// Do dammage if hitting player ... " />
+                <marker date="1509246233000" expanded="true" signature="560:849" ph="{...}" />
+                <marker date="1509246233000" expanded="true" signature="631:839" ph="{...}" />
+                <marker date="1509246233000" expanded="true" signature="859:1140" ph="/// Start the projectile moving. ... " />
+                <marker date="1509246233000" expanded="true" signature="1217:1478" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -158,8 +194,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Code/ScoreManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/Projectile.cs" />
-        <option value="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/TankControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Bullet.cs" />
       </list>
     </option>
   </component>
@@ -236,7 +272,49 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
     <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
     <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
@@ -256,12 +334,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509239220047</updated>
-      <workItem from="1509239223456" duration="1795000" />
+      <workItem from="1509239223456" duration="5947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1795000" />
+    <option name="totallyTimeSpent" value="5947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,7 +397,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/ScoreManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
+        <state relative-caret-position="-151">
           <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="31" />
           <folding>
             <marker date="1509239733000" expanded="false" signature="6:32" ph="..." />
@@ -343,7 +421,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/SpawnController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="218">
           <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <marker date="1481432234000" expanded="true" signature="20:162" ph="/// Just a simple component to keep track of the bounds of the arena ... " />
@@ -357,56 +435,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-129">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="1200">
+          <caret line="80" column="9" lean-forward="false" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
           <folding>
-            <marker date="1509240833000" expanded="true" signature="35:1625" ph="{...}" />
-            <marker date="1509240833000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
-            <marker date="1509240833000" expanded="true" signature="154:1623" ph="{...}" />
-            <marker date="1509240833000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
-            <marker date="1509240833000" expanded="true" signature="268:333" ph="/// How fast to move ... " />
-            <marker date="1509240833000" expanded="true" signature="376:498" ph="/// Do dammage if hitting player ... " />
-            <marker date="1509240833000" expanded="true" signature="563:988" ph="{...}" />
-            <marker date="1509240833000" expanded="true" signature="638:850" ph="{...}" />
-            <marker date="1509240833000" expanded="true" signature="908:978" ph="{...}" />
-            <marker date="1509240833000" expanded="true" signature="998:1279" ph="/// Start the projectile moving. ... " />
-            <marker date="1509240833000" expanded="true" signature="1356:1617" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="34:3721" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
+            <marker date="1509244809000" expanded="true" signature="199:3719" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
+            <marker date="1509244809000" expanded="true" signature="333:507" ph="/// Gain for velocity control. ... " />
+            <marker date="1509244809000" expanded="true" signature="561:626" ph="/// How fast to turn ... " />
+            <marker date="1509244809000" expanded="true" signature="686:757" ph="/// Delay between shooting ... " />
+            <marker date="1509244809000" expanded="true" signature="813:890" ph="/// Axis for controlling driving ... " />
+            <marker date="1509244809000" expanded="true" signature="935:1013" ph="/// Axis for controlling rotation ... " />
+            <marker date="1509244809000" expanded="true" signature="1060:1134" ph="/// Button to fire projectile ... " />
+            <marker date="1509244809000" expanded="true" signature="1183:1263" ph="/// Prefab for the bullets we fire. ... " />
+            <marker date="1509244809000" expanded="true" signature="1319:1416" ph="/// Color to tint the projections fired by this tank ... " />
+            <marker date="1509244809000" expanded="true" signature="1482:1577" ph="/// Time at which we will next be allowed to fire. ... " />
+            <marker date="1509244809000" expanded="true" signature="1628:1707" ph="/// Rigid body component for tank. ... " />
+            <marker date="1509244809000" expanded="true" signature="1762:1821" ph="/// Initialize ... " />
+            <marker date="1509244809000" expanded="true" signature="1852:1913" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="1927:2030" ph="/// Joystick values less than this will be treated as zero ... " />
+            <marker date="1509244809000" expanded="true" signature="2111:2230" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="2239:2357" ph="/// The player pushed fire. ... " />
+            <marker date="1509244809000" expanded="true" signature="2397:2559" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="2442:2549" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="2573:2659" ph="/// Really and truly fire the projectile. ... " />
+            <marker date="1509244809000" expanded="true" signature="2690:2953" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="2989:3713" ph="{...}" />
+            <marker date="1509244809000" expanded="true" signature="3631:3703" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Code/TankControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Bullet.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        <state relative-caret-position="275">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding>
-            <marker date="1509241116000" expanded="true" signature="34:3726" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="45:153" ph="/// Implements player control of tanks, as well as collision detection. ... " />
-            <marker date="1509241116000" expanded="true" signature="199:3724" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="209:275" ph="/// How fast to drive ... " />
-            <marker date="1509241116000" expanded="true" signature="333:507" ph="/// Gain for velocity control. ... " />
-            <marker date="1509241116000" expanded="true" signature="561:626" ph="/// How fast to turn ... " />
-            <marker date="1509241116000" expanded="true" signature="686:757" ph="/// Delay between shooting ... " />
-            <marker date="1509241116000" expanded="true" signature="813:890" ph="/// Axis for controlling driving ... " />
-            <marker date="1509241116000" expanded="true" signature="935:1013" ph="/// Axis for controlling rotation ... " />
-            <marker date="1509241116000" expanded="true" signature="1060:1134" ph="/// Button to fire projectile ... " />
-            <marker date="1509241116000" expanded="true" signature="1183:1263" ph="/// Prefab for the bullets we fire. ... " />
-            <marker date="1509241116000" expanded="true" signature="1319:1416" ph="/// Color to tint the projections fired by this tank ... " />
-            <marker date="1509241116000" expanded="true" signature="1482:1577" ph="/// Time at which we will next be allowed to fire. ... " />
-            <marker date="1509241116000" expanded="true" signature="1628:1707" ph="/// Rigid body component for tank. ... " />
-            <marker date="1509241116000" expanded="true" signature="1762:1821" ph="/// Initialize ... " />
-            <marker date="1509241116000" expanded="true" signature="1852:1913" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="1927:2030" ph="/// Joystick values less than this will be treated as zero ... " />
-            <marker date="1509241116000" expanded="true" signature="2111:2230" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="2244:2362" ph="/// The player pushed fire. ... " />
-            <marker date="1509241116000" expanded="true" signature="2402:2564" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="2447:2554" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="2578:2664" ph="/// Really and truly fire the projectile. ... " />
-            <marker date="1509241116000" expanded="true" signature="2695:2958" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="2994:3718" ph="{...}" />
-            <marker date="1509241116000" expanded="true" signature="3636:3708" ph="{...}" />
+            <marker date="1509246233000" expanded="true" signature="35:1486" ph="{...}" />
+            <marker date="1509246233000" expanded="true" signature="42:113" ph="/// The ordnance shot by the tanks ... " />
+            <marker date="1509246233000" expanded="true" signature="154:1484" ph="{...}" />
+            <marker date="1509246233000" expanded="true" signature="164:224" ph="/// Who shot us ... " />
+            <marker date="1509246233000" expanded="true" signature="269:334" ph="/// How fast to move ... " />
+            <marker date="1509246233000" expanded="true" signature="377:499" ph="/// Do dammage if hitting player ... " />
+            <marker date="1509246233000" expanded="true" signature="560:849" ph="{...}" />
+            <marker date="1509246233000" expanded="true" signature="631:839" ph="{...}" />
+            <marker date="1509246233000" expanded="true" signature="859:1140" ph="/// Start the projectile moving. ... " />
+            <marker date="1509246233000" expanded="true" signature="1217:1478" ph="{...}" />
           </folding>
         </state>
       </provider>
