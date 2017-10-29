@@ -38,7 +38,7 @@ namespace Code
         /// <summary>
         /// Button to fire projectile
         /// </summary>
-        public KeyCode FireButton;
+        public string FireAxis;
     
         /// <summary>
         /// Prefab for the bullets we fire.
@@ -96,10 +96,11 @@ namespace Code
         void FireProjectile() {
             var go = Instantiate(Bullet) ;
             var ps = go.GetComponent<Bullet>();
-            var up = transform.up.normalized;  // shouldn't this be normalized already?  -ian
+            var up = transform.up.normalized;
             ps.Init(gameObject, transform.position + up * 2f, up);
         }
-    
+
+            private int i = 0;
         internal void Update()
         {
             // Movement
@@ -115,7 +116,7 @@ namespace Code
             tankRb.AddForce(fSkid * transform.right);
     
             // Firing
-            if (Input.GetKey(FireButton))
+            if (Input.GetAxis(FireAxis) == 1f)
             {
                 FireProjectileIfPossible();
             }
