@@ -41,16 +41,6 @@ namespace Code
             }
             return PlatformType.Windows;
         }
-
-        /// <summary>
-        /// Returns the name of the platform appropriate input axis for firing.
-        /// Windows has a different binding for the right trigger than OSX/Linux.
-        /// </summary>
-        /// <returns>Name of the "fire" axis</returns>
-        public static string GetFireAxis() {
-            
-            return GetPlatform() == PlatformType.Windows ? "FireAxis1(Win)" : "FireAxis1(Mac)"; // OSX/Linux bind right trigger the same way
-        }
     }
 
 }

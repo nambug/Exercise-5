@@ -91,7 +91,6 @@ namespace Code
                 }
                 return;
             }
-            Debug.Log("No Platform Set");
         }
     
         /// <summary>
