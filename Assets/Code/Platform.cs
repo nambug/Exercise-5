@@ -24,11 +24,22 @@ namespace Code
         /// </summary>
         /// <returns>What platform we're running on</returns>
         public static PlatformType GetPlatform () {
-            if (Application.platform == RuntimePlatform.WindowsPlayer)
+            if ((Application.platform == RuntimePlatform.WindowsPlayer) || 
+                (Application.platform == RuntimePlatform.WindowsEditor))
             {
                 return PlatformType.Windows;
             }
-            return PlatformType.Mac;
+            if ((Application.platform == RuntimePlatform.OSXEditor) || 
+                (Application.platform == RuntimePlatform.OSXPlayer))
+            {
+                return PlatformType.Mac;
+            }
+            if ((Application.platform == RuntimePlatform.LinuxEditor) || 
+                (Application.platform == RuntimePlatform.LinuxPlayer))
+            {
+                return PlatformType.Linux;
+            }
+            return PlatformType.Windows;
         }
 
         /// <summary>
