@@ -9,13 +9,13 @@ namespace Code
         /// <summary>
         /// How fast to drive
         /// </summary>
-        public float ForwardSpeed = 1f;
+        public float ForwardSpeed = 10f;
         
         /// <summary>
         /// Gain for velocity control.
         /// Force is this times the difference between our target velocity and our actual velocity
         /// </summary>
-        public float Acceleration = 2f;
+        public float Acceleration = 5f;
     
         /// <summary>
         /// How fast to turn
@@ -71,7 +71,7 @@ namespace Code
         /// <summary>
         /// Joystick values less than this will be treated as zero
         /// </summary>
-        const float DeadZoneSize = 0.2f;
+        const float DeadZoneSize = 0.1f;
     
         float DeadZone(float axis)
         {
@@ -100,7 +100,6 @@ namespace Code
             ps.Init(gameObject, transform.position + up * 2f, up);
         }
 
-            private int i = 0;
         internal void Update()
         {
             // Movement
