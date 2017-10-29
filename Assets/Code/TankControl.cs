@@ -35,10 +35,11 @@ namespace Code
         /// Axis for controlling rotation
         /// </summary>
         public string HorizontalAxis;
+
         /// <summary>
         /// Button to fire projectile
         /// </summary>
-        public string FireAxis;
+        private string FireAxis;
     
         /// <summary>
         /// Prefab for the bullets we fire.
@@ -66,6 +67,31 @@ namespace Code
         /// </summary>
         internal void Start() {
             tankRb = GetComponent<Rigidbody2D>();
+            if ((Platform.GetPlatform() == PlatformType.Mac) || (Platform.GetPlatform() == PlatformType.Linux))
+            {
+                if (gameObject.CompareTag("Player1"))
+                {
+                    FireAxis = "FireAxis1(Mac)";
+                }
+                else
+                {
+                    FireAxis = "FireAxis2(Mac)";
+                }
+                return;
+            }
+            if (Platform.GetPlatform() == PlatformType.Windows)
+            {
+                if (gameObject.CompareTag("Player1"))
+                {
+                    FireAxis = "FireAxis1(Win)";
+                }
+                else
+                {
+                    FireAxis = "FireAxis2(Win)";
+                }
+                return;
+            }
+            Debug.Log("No Platform Set");
         }
     
         /// <summary>
